@@ -1,2 +1,2 @@
 # KeStat
-Offline statistics by keystroke.
+Offline statistics by keystrokes.
